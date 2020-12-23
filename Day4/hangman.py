@@ -1,6 +1,6 @@
 import time
 import random
-words =["car","window","aligator","bottle","teaandtech","gamingchair"]
+words =["car","window","aligator","bottle","teaandtech","gamingchair","stool"]
 
 x=random.choice(words)
 

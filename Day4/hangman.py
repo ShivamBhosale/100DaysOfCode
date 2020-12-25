@@ -1,5 +1,9 @@
 import time
 import random
+import pyfiglet
+
+ascii_banner = pyfiglet.figlet_format("Hangman")
+print(ascii_banner)
 words =["car","window","aligator","bottle","teaandtech","gamingchair","stool"]
 
 x=random.choice(words)

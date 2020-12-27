@@ -10,7 +10,7 @@ def myfunction():
 t1 =threading.Thread(target=myfunction)
 t1.start()
 
-x = input("\nDo you want to trigger the event (y/n)")
+x = input("\nDo you want to trigger the event (y/n):")
 if x == "y": 
     event.set()
 

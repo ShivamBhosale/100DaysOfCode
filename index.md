@@ -3,26 +3,51 @@
 In this blog I will be sharing my journey from Day1 to Day100 of my #The100DaysofCode Challenge..
 
 
-### Markdown
+### Day 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+On the first day of the challenge I decided to practise some of the basic programs such as Anagram check and array pair sum.
 
 ```markdown
-Syntax highlighted code block
+# 100 Days of Code Challenge
+# Method 1
+def anagram_check(s1, s2):
+    s1 = s1.replace(' ','').lower()
+    s2 = s2.replace(' ','').lower()
 
-# Header 1
-## Header 2
-### Header 3
+    return sorted(s1) == sorted(s2)
 
-- Bulleted
-- List
+print(anagram_check('Clint eastwood','old west action'))
 
-1. Numbered
-2. List
+# Method 2
 
-**Bold** and _Italic_ and `Code` text
+def anagram_check2(s3,s4):
+    s3 = s3.replace(' ','').lower()
+    s4 = s4.replace(' ','').lower()
 
-[Link](url) and ![Image](src)
+    if (len(s3) != len(s4)):
+        return False
+    
+    count = {}
+    for letter in s3:
+        if letter in count:
+            count[letter] += 1
+        else:
+            count[letter] = 1
+
+    for letter in s4:
+        if letter in count:
+            count[letter] -= 1
+        else:
+            count[letter] = 1
+    
+    for k in count:
+        if count[k] != 0:
+            return False
+
+    return True
+
+print(anagram_check2("Hello","helloo"))
+    
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

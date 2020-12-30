@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## The100DaysOfCode Challenge
 
-You can use the [editor on GitHub](https://github.com/ShivamBhosale/100DaysofCode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this blog I will be sharing my journey from Day1 to Day100 of my #The100DaysofCode Challenge..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

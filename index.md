@@ -1,12 +1,13 @@
-## The100DaysOfCode Challenge
+# The100DaysOfCode Challenge
 
 In this blog I will be sharing my journey from Day1 to Day100 of my #The100DaysofCode Challenge..
 
 
-### Day 1
+## Day 1
 
 On the first day of the challenge I decided to practise some of the basic programs such as Anagram check and array pair sum.
 
+### Anagram Check
 ```markdown
 # 100 Days of Code Challenge
 # Method 1
@@ -50,12 +51,29 @@ print(anagram_check2("Hello","helloo"))
     
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Array pair sum
+```
+def pair_sum(arr,k):
 
-### Jekyll Themes
+    if len(arr)<2:
+        return ("Array too short")
+    
+    #Sets for tracking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShivamBhosale/100DaysofCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    seen = set()
+    output = set()
 
-### Support or Contact
+    for num in arr:
+        target = k-num
+        if target not in seen:
+            seen.add(num)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        else:
+            output.add(((min(num,target)), max(num,target)))
+        return len(output)
+        print("\n").join(map(str,list(output)))
+
+print(pair_sum([1,3,2,2],4))
+```
+
+

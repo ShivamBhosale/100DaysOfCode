@@ -24,8 +24,6 @@ FIREWORKS = """
 
 """
 
-
-
 def print_msg():
     f = pyfiglet.Figlet(font=fontt)
     

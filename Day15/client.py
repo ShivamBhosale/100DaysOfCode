@@ -14,7 +14,7 @@ def main():
             else:
                 print(message)
         except:
-            print("There's some erroe in the connection")
+            print("There's some error in the connection")
             client.close()
             break
 
@@ -23,8 +23,8 @@ def write():
         message = f'{nickname}: {input("")}'
         client.send(message.encode('ascii'))
 
-recieve_thread = threading.Thread(target=main)
-recieve_thread.start()
+receive_thread = threading.Thread(target=main)
+receive_thread.start()
 
 write_thread = threading.Thread(target=write)
 write_thread.start()

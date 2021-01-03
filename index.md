@@ -3,21 +3,55 @@
 In this blog I will be sharing my journey from Day1 to Day100 of my #The100DaysofCode Challenge..
 
 
-## Day 1
-
+## Day 1 - Pilot
 On the first day of the challenge I decided to practise some of the basic programs such as Anagram check and array pair sum.
 <br>
-## Day 2
-
+## Day 2 - Random Function
 I Played with the Random Function in Python and created Password generation, Dice and Rock Paper Scissor Program.
 <br>
-## Day 3
-
+## Day 3 - Sort
 I Practised different searching algorithms - Insertion Sort, Bubble Sort, Selection Sort, Quick Sort.
 <br>
-## Day 4
+## Day 4 - Hangman Game
 On day 4 I created the famous Hangman game, I used random function to give a different word everytime we play the game and also added difficulty levels.
 <br>
-## Day 5
+## Day 5 - Searching
 Day 5 was all about searching algorithms, I practiced some of the most common searching algorithms (Linear, Binary, Jump). Today was a busy day couldn't practice much.
+<br>
+## Day 6 - Classes
+Followed the Intermediate Python Tutorial Playlist on YouTube by NeuralNine practiced Classes and Objects, Inheritance, Operator Overloading. 
+<br>
+## Day 7 - Multithreading
+Learned Multithreading in python will be practicing this to get a better understanding of the concept.
+<br>
+## Day 8 - Events, Daemon Threads and Queues
+With everyday passing I'm learning something new, need to start practicing more to get proper hold of the concepts.
+<br>
+## Day 9 -  Sockets and Recursion
+Learned about the sockets for networking in python also practiced recursion using some common examples.
+<br>
+## Day 10 - Database Programming in Python
+Today I tried the sqlite3 module in python. Tomorrow onwards I will either start learning Flask for the web applications or Tkinter to learn about the GUI.
+<br>
+## Day 11 - Created Flask App
+Followed the tutorial by freeCodeCamp and created a Flask Task Manager App. The Application allows user to add, update and delete the task.
+<br>
+## Day 12 -  Logging and automated Python mailer
+Today I created an automated mailer system in Python3 and learned about logging. I wonder what should I do tomorrow. :computer: :confused:
+<br>
+## Day 13 -  Python + New Year's Eve
+Today, I created an ASCII art illustration using python and a countdown timer using turtle in python.
+<br>
+## Day 14 - Snake Game :snake:
+I created a snake game  using pygame module in python and followed the playlist created by TechWithTimm.
+<br>
+## Day 15 - TCP Chat Room
+I created a TCP chat room which allows multiple clients to connect and communicate at the same time. And of course I used python for the same.
+<br>
+## Day 16 - Rewind Time - 1 :clap:
+I revised all the concepts learned past 15 days and practiced them again. I have also decided to write a blog documenting all my days progress during the challenge.
+
+  
+ 
+
 

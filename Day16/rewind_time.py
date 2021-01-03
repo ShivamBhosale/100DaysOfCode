@@ -1,4 +1,4 @@
-""" def anagram_check(s1,s2):
+def anagram_check(s1,s2):
     s1=s1.replace(" ","").lower()
     s2=s2.replace(" ","").lower()
     
@@ -106,7 +106,7 @@ def quick_sort(num):
     
 n=int(input("Enter the length of the array: "))
 array=list(map(int,input("Enter the array to be sorted: ").strip().split()))[:n]
-print(quick_sort(array))  """
+print(quick_sort(array))  
 
 def selection_sort(arr):
     for i in range(len(arr)):
@@ -118,7 +118,50 @@ def selection_sort(arr):
     return arr
 n=int(input("Enter the length of the array: "))
 array=list(map(int,input("Enter the array to be sorted: ").strip().split()))[:n]
-print(selection_sort(array))
+print(selection_sort(array)) 
+
+class Player:
+    count = 0
+    def __init__(self,name,age,goals):
+        self.name = name
+        self.age = age
+        self.goals = goals
+        Player.count += 1
+        
+    def __str__(self):
+        return ("Name: {}, Age: {}, Goals: {}".format(self.name,self.age,self.goals))
+
+x = Player("Shivam",21,100)
+y = Player("Eden",29,120)
+print(x,"\n",y)
+print(Player.count) 
+
+class Player:
+    
+    def __init__(self,name,age,salary):
+        self.name = name
+        self.age = age
+        self.salary = salary
+    
+    def __str__(self):
+        return ("Name: {}, Age: {}, Salary: {}".format(self.name,self.age,self.salary))
+
+
+class specs(Player): #Inheritance
+    
+    def __init__(self,name,age,salary,height):
+        super(specs, self).__init__(name,age,salary)
+        self.height = height
+
+    def __str__(self):
+        pre = super(specs, self).__str__()
+        pre += ", Height: {}".format((self.height))
+        return pre
+z = specs("Shivam",21,10000000,156)
+print(z) 
+
+
+
 
 
 

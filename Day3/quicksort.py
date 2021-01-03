@@ -3,7 +3,7 @@ Picking one value of the list that will be in its sorted place.
 This value is called a pivot. All elements smaller than the pivot are moved to its left.
 All larger elements are moved to its right.
 Knowing that the pivot is in it's rightful place,
-We recursively sort the values around the pivot until the entire list is sorted."""
+We recursively sort the values around the pivot until the entire list is sorted. """
 
 def partition(num,low,high):
     pivot = num[(low+high) // 2]

@@ -37,18 +37,18 @@ Today I tried the sqlite3 module in python. Tomorrow onwards I will either start
 Followed the tutorial by freeCodeCamp and created a Flask Task Manager App. The Application allows user to add, update and delete the task.
 <br>
 ## Day 12 -  Logging and automated Python mailer
-Today I created an automated mailer system in Python3 and learned about logging. I wonder what should I do tomorrow. :computer: :confused:
+Today I created an automated mailer system in Python3 and learned about logging. I wonder what should I do tomorrow.
 <br>
 ## Day 13 -  Python + New Year's Eve
 Today, I created an ASCII art illustration using python and a countdown timer using turtle in python.
 <br>
-## Day 14 - Snake Game :snake:
+## Day 14 - Snake Game 
 I created a snake game  using pygame module in python and followed the playlist created by TechWithTimm.
 <br>
 ## Day 15 - TCP Chat Room
 I created a TCP chat room which allows multiple clients to connect and communicate at the same time. And of course I used python for the same.
 <br>
-## Day 16 - Rewind Time - 1 :clap:
+## Day 16 - Rewind Time - 1 
 I revised all the concepts learned past 15 days and practiced them again. I have also decided to write a blog documenting all my days progress during the challenge.
 
   

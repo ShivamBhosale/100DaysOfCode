@@ -50,7 +50,10 @@ I created a TCP chat room which allows multiple clients to connect and communica
 <br>
 ## Day 16 - Rewind Time - 1 
 I revised all the concepts learned past 15 days and practiced them again. I have also decided to write a blog documenting all my days progress during the challenge.
-
+<br>
+## Day 17 - Wine Quality Prediction
+I moved back to Data Science today, and created a Wine Quality Prediction model. I made it using different ML algorithms such as Decision Tree, GaussianNB, Random Forest, and K Nearest Neighbor.
+<br>
   
  
 

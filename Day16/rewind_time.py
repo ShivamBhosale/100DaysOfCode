@@ -158,7 +158,75 @@ class specs(Player): #Inheritance
         pre += ", Height: {}".format((self.height))
         return pre
 z = specs("Shivam",21,10000000,156)
-print(z) 
+print(z)  
+
+def LinearSearch(arr,ele):
+    for i in range(len(arr)):
+        if ele == arr[i]:
+            return i
+    return -1
+
+n=int(input("Enter the length of the array: "))
+a=list(map(int,input("Enter the elements in the array: ").strip().split()))[:n]
+e=int(input("Enter the element to be searched: "))
+print("Number found at array index: ",LinearSearch(a,e))
+
+
+def BinarySearch(arr,ele):
+    first = 0
+    last = len(arr)-1
+    index = -1
+
+    while(first <= last) and (index == -1):
+        mid = (first+last)//2
+        if arr[mid] == ele:
+            index = mid
+        elif ele < arr[mid]:
+            last = mid - 1
+        else:
+            first = mid + 1
+    return index
+print("The number is found at array index: ",BinarySearch([10,20,30,40,50],40)) 
+
+import queue
+import pyfiglet
+
+q=queue.Queue()
+numbers=[10,20,30,40,50,60,70]
+for i in numbers:
+    q.put(i)
+# With Every Print Statement a new element will be selected based to the position in the queue.
+#FIFO
+print(q.get())
+print(q.get())
+print(q.get())
+print(q.get())
+print(q.get())
+print("\n")
+
+#LIFO
+q1=queue.LifoQueue()
+for x in numbers:
+    q1.put(x)
+print(q1.get())
+print(q1.get())
+print(q1.get())
+print(q1.get())
+print(q1.get())
+
+#Priority Queue
+q3 = queue.PriorityQueue()
+q3.put((2,"Shivam Sunil Bhosale"))
+q3.put((1,"Male"))
+q3.put((3,21))
+
+while not (q3.empty()):
+    print(q3.get())
+
+
+
+
+
 
 
 

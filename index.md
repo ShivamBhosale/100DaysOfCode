@@ -54,7 +54,6 @@ I revised all the concepts learned past 15 days and practiced them again. I have
 ## Day 17 - Wine Quality Prediction
 I moved back to Data Science today, and created a Wine Quality Prediction model. I made it using different ML algorithms such as Decision Tree, GaussianNB, Random Forest, and K Nearest Neighbor.
 <br>
-  
- 
-
-
+## Day 18 - Decision Tree Classifier
+I practiced the Decision Tree Classifier on a Drug Dataset,  and build a model to find out which drug might be appropriate for a future patient with the similar illness.
+<br>

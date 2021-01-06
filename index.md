@@ -55,5 +55,8 @@ I revised all the concepts learned past 15 days and practiced them again. I have
 I moved back to Data Science today, and created a Wine Quality Prediction model. I made it using different ML algorithms such as Decision Tree, GaussianNB, Random Forest, and K Nearest Neighbor.
 <br>
 ## Day 18 - Decision Tree Classifier
-I practiced the Decision Tree Classifier on a Drug Dataset,  and build a model to find out which drug might be appropriate for a future patient with the similar illness.
+I practiced the Decision Tree Classifier on a Drug Dataset, and build a model to find out which drug might be appropriate for a future patient with the similar illness.
 <br>
+## Day 19 - K Nearest Neighbor
+I performed K Nearest Neighbor classification on a telecommunication provider data set. The example focuses on using demographic data, such as region, age, and marital, to predict usage patterns. The target field, called custcat, has four possible values that correspond to the four customer groups, as follows: 1- Basic Service 2- E-Service 3- Plus Service 4- Total Service
+

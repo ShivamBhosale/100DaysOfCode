@@ -58,5 +58,8 @@ I moved back to Data Science today, and created a Wine Quality Prediction model.
 I practiced the Decision Tree Classifier on a Drug Dataset, and build a model to find out which drug might be appropriate for a future patient with the similar illness.
 <br>
 ## Day 19 - K Nearest Neighbor
-I performed K Nearest Neighbor classification on a telecommunication provider data set. The example focuses on using demographic data, such as region, age, and marital, to predict usage patterns. The target field, called custcat, has four possible values that correspond to the four customer groups, as follows: 1- Basic Service 2- E-Service 3- Plus Service 4- Total Service
+I performed K Nearest Neighbor classification on a telecommunication provider data set. The example focuses on using demographic data, such as region, age, and marital, to predict usage patterns. The target field, called custcat, has four possible values that correspond to the four customer groups, as follows: 1- Basic Service 2- E-Service 3- Plus Service 4- Total Service.
+<br>
+## Day 20 - Logistic Regression
+Using telecommunication dataset I performed Logistic Regression for predicting customer churn. I preprocessed, cleaned, Visualized and finally predicted the outcome.
 

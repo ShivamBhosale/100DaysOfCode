@@ -62,4 +62,6 @@ I performed K Nearest Neighbor classification on a telecommunication provider da
 <br>
 ## Day 20 - Logistic Regression
 Using telecommunication dataset I performed Logistic Regression for predicting customer churn. I preprocessed, cleaned, Visualized and finally predicted the outcome.
-
+<br>
+## Day 21 - SVM (Support Vector Machines)
+Practiced SVM to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.

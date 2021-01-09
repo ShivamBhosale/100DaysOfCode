@@ -66,9 +66,9 @@ Using telecommunication dataset I performed Logistic Regression for predicting c
 ## Day 21 - SVM (Support Vector Machines)
 Practiced SVM to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
 <br>
-## Day 22 - Tensorflow Basics
-Back to Tensorflow module, today I created a 3 basic models in tensorflow
+## Day 22 - TensorFlow Basics
+Back to Tensorflow module,and created 3 basic models.
 * A simple value predictor based on the second variable.
-* Apparel Predictor using the Fashion_mnist dataset.
-* Apparel Predictor with CNN using Fashion_mnist dataset.
+* Apparel Predictor using Fashion_mnist dataset.
+* Apparel Predictor (CNN) using Fashion_mnist dataset.
  

@@ -71,10 +71,10 @@ Back to Tensorflow module,and created 3 basic models.
 * A simple value predictor based on the second variable.
 * Apparel Predictor using Fashion_mnist dataset.
 * Apparel Predictor (CNN) using Fashion_mnist dataset.
-<br>
+
 ## Day 23 - Image Compressor
 I created an Image Compressor Application using pillow and streamlit. The application is deployed on heroku. As of now it only accepts jpg images and reduces their dimension thereby compressing the image.
-<br>
+
 ## Day 24 - Cat and Dog Classifier
 I made a Cat and Dog Classifier and deployed it on streamlit. The model has 70% of validation accuracy. This was first time that I had actually deployed a model after creating it.
  

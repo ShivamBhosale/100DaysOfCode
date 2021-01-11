@@ -68,9 +68,9 @@ Practiced SVM to build and train a model using human cell records, and classify 
 <br>
 ## Day 22 - TensorFlow Basics
 Back to Tensorflow module,and created 3 basic models.
-* A simple value predictor based on the second variable.
-* Apparel Predictor using Fashion_mnist dataset.
-* Apparel Predictor (CNN) using Fashion_mnist dataset.
+- A simple value predictor based on the second variable.
+- Apparel Predictor using Fashion_mnist dataset.
+- Apparel Predictor (CNN) using Fashion_mnist dataset.
 
 ## Day 23 - Image Compressor
 I created an Image Compressor Application using pillow and streamlit. The application is deployed on heroku. As of now it only accepts jpg images and reduces their dimension thereby compressing the image.

@@ -78,3 +78,5 @@ I created an Image Compressor Application using pillow and streamlit. The applic
 ## Day 24 - Cat and Dog Classifier
 I made a Cat and Dog Classifier and deployed it on streamlit. The model has 70% of validation accuracy. This was first time that I had actually deployed a model after creating it.
  
+## Day 25 - Hand Written Digit Recognizer
+Had a really lazy day today so just made a basic tensorflow handwritten digit recognizer based on the pre-made keras mnist datasets. Will also be reading a Research paper based on CNN today.

@@ -83,3 +83,6 @@ Had a really lazy day today so just made a basic tensorflow handwritten digit re
 
 ## Day 26 - Tomato Leaf Disease Detection
 As a part of learning process I made a tomato disease detector which using CNN succesfully differentiate between a tomato with a infected leaf and a healthy leaf and deployed it using streamlit.
+
+## Day 27 - Covid19 Analysis
+I performed analysis on different Covid 19 Datasets such as confirmed cases, deaths and recoveries in different countries.

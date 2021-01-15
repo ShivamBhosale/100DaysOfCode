@@ -86,3 +86,6 @@ As a part of learning process I made a tomato disease detector which using CNN s
 
 ## Day 27 - Covid19 Analysis
 I performed analysis on different Covid 19 Datasets such as confirmed cases, deaths and recoveries in different countries.
+
+## Day 28 - Sentiment Analysis (Sarcasm)
+Followed the NLP tutorial on Tensorflow and created a Sentiment Analyser which can predict the level of sarcasm in any text.But I have realised I'm more awed by CNN so will be learning more about Image Processing for next few days or even weeks.

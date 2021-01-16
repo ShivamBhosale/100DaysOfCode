@@ -5,7 +5,7 @@ st.set_option('deprecation.showfileUploaderEncoding',False)
 @st.cache(allow_output_mutation=True)
 
 def load_model():
-    model = tf.keras.models.load_model('plant3.hdf5')
+    model = tf.keras.models.load_model('plant5.hdf5')
     return model
 model=load_model()
 st.write(""" # Plant Disease Detection """ )

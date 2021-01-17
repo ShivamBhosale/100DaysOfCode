@@ -94,4 +94,4 @@ Followed the NLP tutorial on Tensorflow and created a Sentiment Analyser which c
 I continued to work on the plant disease detection model to build a model in a way that it can predict the difference between a bacterial spot infected pepper plant, healthy pepper plant, healthy tomato plant and an early blight infected plant. Still working on to improve the accuracy.
 
 ## Day 30 - Plant Disease Detection (Updated for better accuracy)
-Added dropuout and an additioan CNN layer in the ANN to avoid the problem for overfitting while training. Got better accuracy than the previous model but still haven't perfected it.
+Added dropout and an addition CNN layer in the ANN to avoid the problem of overfitting while training. Got better accuracy than the previous model but still haven't perfected it.

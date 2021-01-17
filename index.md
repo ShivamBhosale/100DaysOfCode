@@ -90,5 +90,8 @@ I performed analysis on different Covid 19 Datasets such as confirmed cases, dea
 ## Day 28 - Sentiment Analysis (Sarcasm)
 Followed the NLP tutorial on Tensorflow and created a Sentiment Analyser which can predict the level of sarcasm in any text.But I have realised I'm more awed by CNN so will be learning more about Image Processing for next few days or even weeks.
 
-## Day 29: Plant Disease Detection
+## Day 29 - Plant Disease Detection
 I continued to work on the plant disease detection model to build a model in a way that it can predict the difference between a bacterial spot infected pepper plant, healthy pepper plant, healthy tomato plant and an early blight infected plant. Still working on to improve the accuracy.
+
+## Day 30 - Plant Disease Detection (Updated for better accuracy)
+Added dropuout and an additioan CNN layer in the ANN to avoid the problem for overfitting while training. Got better accuracy than the previous model but still haven't perfected it.

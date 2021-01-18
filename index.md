@@ -95,3 +95,8 @@ I continued to work on the plant disease detection model to build a model in a w
 
 ## Day 30 - Plant Disease Detection (Updated for better accuracy)
 Added dropout and an addition CNN layer in the ANN to avoid the problem of overfitting while training. Got better accuracy than the previous model but still haven't perfected it.
+
+## Day 31 - Exploratory Data Analysis (Retail)
+I performed an in depth exploratory data analysis on a sample superstore dataset and looked at the various factors/ areas that can help to make up more profit.
+
+

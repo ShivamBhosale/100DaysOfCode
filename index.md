@@ -99,4 +99,5 @@ Added dropout and an addition CNN layer in the ANN to avoid the problem of overf
 ## Day 31 - Exploratory Data Analysis (Retail)
 I performed an in depth exploratory data analysis on a sample superstore dataset and looked at the various factors/ areas that can help to make up more profit.
 
-
+## Day 32 - Indian Vehicular Data Analysis
+I performed a simple data analysis using a dataset from kaggle and predict the selling price of the vehicle based on different factors.

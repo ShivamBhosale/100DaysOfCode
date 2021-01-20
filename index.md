@@ -101,3 +101,6 @@ I performed an in depth exploratory data analysis on a sample superstore dataset
 
 ## Day 32 - Indian Vehicular Data Analysis
 I performed a simple data analysis using a dataset from kaggle and predict the selling price of the vehicle based on different factors.
+
+## Day 33 - Exploratory Data Analysis - Terrorism
+As a part of my day 33 of #100DaysOfCode challenge, I performed data analysis on global terrorism dataset.

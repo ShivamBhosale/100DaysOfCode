@@ -104,3 +104,6 @@ I performed a simple data analysis using a dataset from kaggle and predict the s
 
 ## Day 33 - Exploratory Data Analysis - Terrorism
 As a part of my day 33 of #100DaysOfCode challenge, I performed data analysis on global terrorism dataset.
+
+## Day 34 - Rewind 2
+I visited some older codes which i had done bofore to practice them I have also decided to practise Cracking the Coding Interview book on daily basis.

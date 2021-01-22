@@ -107,3 +107,6 @@ As a part of my day 33 of #100DaysOfCode challenge, I performed data analysis on
 
 ## Day 34 - Rewind 2
 I visited some older codes which I had done before to practice them I have also decided to practice Cracking the Coding Interview book on a daily basis.
+
+## Day 35 - Rock Paper Scissor Hand Gesture Recognizer
+Today I created a Rock Paper Scissor Hand Gesture Recognizer model using CNN in tensorflow and deployed the same on streamlit.

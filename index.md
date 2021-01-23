@@ -110,3 +110,6 @@ I visited some older codes which I had done before to practice them I have also 
 
 ## Day 35 - Rock Paper Scissor Hand Gesture Recognizer
 Today I created a Rock Paper Scissor Hand Gesture Recognizer model using CNN in tensorflow and deployed the same on streamlit.
+
+## Day 36 - Caesar Encryption
+Made a Caesar encryption program which shifts every character in the string to a given value thereby hiding the original message.

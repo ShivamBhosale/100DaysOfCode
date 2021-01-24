@@ -97,7 +97,7 @@ I continued to work on the plant disease detection model to build a model in a w
 Added dropout and an addition CNN layer in the ANN to avoid the problem of overfitting while training. Got better accuracy than the previous model but still haven't perfected it.
 
 ## Day 31 - Exploratory Data Analysis (Retail)
-I performed an in depth exploratory data analysis on a sample superstore dataset and looked at the various factors/ areas that can help to make up more profit.
+I performed an in depth exploratory data analysis on a sample superstore dataset and looked at the various factors / areas that can help to make up more profit.
 
 ## Day 32 - Indian Vehicular Data Analysis
 I performed a simple data analysis using a dataset from kaggle and predict the selling price of the vehicle based on different factors.
@@ -113,3 +113,6 @@ Today I created a Rock Paper Scissor Hand Gesture Recognizer model using CNN in 
 
 ## Day 36 - Caesar Encryption
 Made a Caesar encryption program which shifts every character in the string to a given value thereby hiding the original message.
+
+## Day 37 - AI Chatbot
+Today I created an AI chatbot (with limited vocabulary) using NLTK and TensorFlow modules in python. The bot answers some fundamental questions. NLP seems to be hard and immensely fascinating at the same time.

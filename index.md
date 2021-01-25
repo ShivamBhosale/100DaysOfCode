@@ -116,3 +116,6 @@ Made a Caesar encryption program which shifts every character in the string to a
 
 ## Day 37 - AI Chatbot
 Today I created an AI chatbot (with limited vocabulary) using NLTK and TensorFlow modules in python. The bot answers some fundamental questions. NLP seems to be hard and immensely fascinating at the same time.
+
+## Day 38 - Web scrapping I
+Today I started to learn web scrapping and performed some basic operations on an HTML document using bs4 module in python. I'm following the video by freeCodeCamp.org to do so.

@@ -119,3 +119,6 @@ Today I created an AI chatbot (with limited vocabulary) using NLTK and TensorFlo
 
 ## Day 38 - Web scrapping I
 Today I started to learn web scrapping and performed some basic operations on an HTML document using bs4 module in python. I'm following the video by freeCodeCamp.org to do so.
+
+## Day 39 - Web scrapping II
+Performed web scrapping on a job hunting website using Beautiful Soap and request libraries in python. Also had a minor surgery today.

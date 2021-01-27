@@ -124,4 +124,4 @@ Today I started to learn web scrapping and performed some basic operations on an
 Performed web scrapping on a job hunting website using Beautiful Soap and request libraries in python. Also had a minor surgery today.
 
 ## Day 40 - Web Scrapping III
-I finished basic web scrapping exercise by scrapping out jobs based on my preferences from a job hunting site and saved them in text files.
+I finished a basic web scrapping exercise by scrapping out jobs based on my preferences from a job hunting site and saved them in text files.

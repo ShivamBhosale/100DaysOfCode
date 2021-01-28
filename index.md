@@ -125,3 +125,6 @@ Performed web scrapping on a job hunting website using Beautiful Soap and reques
 
 ## Day 40 - Web Scrapping III
 I finished a basic web scrapping exercise by scrapping out jobs based on my preferences from a job hunting site and saved them in text files.
+
+## Day 41 - KNN II
+Back to Machine Learning, Performed KNN on a dataset a plotted to graph to predict accuracy at different values of K.

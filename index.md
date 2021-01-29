@@ -128,3 +128,6 @@ I finished a basic web scrapping exercise by scrapping out jobs based on my pref
 
 ## Day 41 - KNN II
 Back to Machine Learning, Performed KNN on a dataset a plotted to graph to predict accuracy at different values of K.
+
+## Day 42 - SVM II
+Performed SVM and KNN on a common dataset and compared their scores on different K and soft margin values.

@@ -131,3 +131,6 @@ Back to Machine Learning, Performed KNN on a dataset a plotted to graph to predi
 
 ## Day 42 - SVM II
 Performed SVM and KNN on a common dataset and compared their scores on different K and soft margin values.
+
+## Day 43 - Decision Tree and Random Forest
+Performed Decision Tree and Random Forest classification on a Drug dataset and tested the accuracy for both.

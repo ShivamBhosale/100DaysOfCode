@@ -134,3 +134,6 @@ Performed SVM and KNN on a common dataset and compared their scores on different
 
 ## Day 43 - Decision Tree and Random Forest
 Performed Decision Tree and Random Forest classification on a Drug dataset and tested the accuracy for both.
+
+## Day 44 - KMeans Clustering
+Using a customer segmentation dataset, I performed KMeans Clustering to classify the customers based on their age, income and education.

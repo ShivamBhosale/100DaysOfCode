@@ -137,3 +137,6 @@ Performed Decision Tree and Random Forest classification on a Drug dataset and t
 
 ## Day 44 - KMeans Clustering
 Using a customer segmentation dataset, I performed KMeans Clustering to classify the customers based on their age, income and education.
+
+## Day 45 - Logistic Regression II
+Practiced Logistic Regression today on a telecommunication database for predicting customer churn.

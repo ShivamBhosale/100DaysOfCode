@@ -1,4 +1,4 @@
-# The100DaysOfCode Challenge
+# The 100DaysOfCode Challenge
 
 In this blog I will be sharing my journey from Day1 to Day100 of my #The100DaysofCode Challenge..
 

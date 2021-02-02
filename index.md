@@ -140,3 +140,6 @@ Using a customer segmentation dataset, I performed KMeans Clustering to classify
 
 ## Day 45 - Logistic Regression II
 Practiced Logistic Regression today on a telecommunication database for predicting customer churn.
+
+## Day 46 - Stock Prediction Attempt 1 and Tkinter Calculator
+I created a tkinter calculator which can do basic mathematical operations also tried to make a stock price predictor using LSTM will continue to work on that tomorrow.

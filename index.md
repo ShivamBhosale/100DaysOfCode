@@ -143,3 +143,6 @@ Practiced Logistic Regression today on a telecommunication database for predicti
 
 ## Day 46 - Stock Prediction Attempt 1 and Tkinter Calculator
 I created a tkinter calculator which can do basic mathematical operations also tried to make a stock price predictor using LSTM will continue to work on that tomorrow.
+
+## Day 47 - Streamlit ML App
+I built and deployed an ML application on streamlit which allows user to select between KNN, SVM, Decision Tree, and Random Forest to predict the outcome of some predefined datasets and then plotting the graph for the same.

@@ -146,3 +146,6 @@ I created a tkinter calculator which can do basic mathematical operations also t
 
 ## Day 47 - Streamlit ML App
 I built and deployed an ML application on streamlit which allows user to select between KNN, SVM, Decision Tree, and Random Forest to predict the outcome of some predefined datasets and then plotting the graph for the same.
+
+## Day 48 - Magic Methods
+Today I started a learning some advance python concepts and learned magic methods in python by following a playlist by neuralnine.

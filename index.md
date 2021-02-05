@@ -149,3 +149,6 @@ I built and deployed an ML application on streamlit which allows user to select 
 
 ## Day 48 - Magic Methods
 Today I started a learning some advance python concepts and learned magic methods in python by following a playlist by neuralnine.
+
+## Day 49 - Decorators
+Today I practiced some functions using decorators in python as a part of advance learning concepts.

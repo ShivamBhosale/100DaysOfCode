@@ -8,7 +8,7 @@ def fact(n):
 a = int(input("Enter a number to find the factorial: "))
 print(fact(a))
 
-""" Fibbonacci Series """
+""" Fibonacci Series """
 def fib(m):
     if m == 0 or m == 1:
         return 1
@@ -16,6 +16,6 @@ def fib(m):
         number2 = fib(m-1) + fib(m-2)
         return number2
 
-b = int(input("Enter a number to find the fibbonacci value: "))
+b = int(input("Enter a number to find the fibonacci value: "))
 print(fib(b))
  

@@ -152,3 +152,6 @@ Today I started a learning some advance python concepts and learned magic method
 
 ## Day 49 - Decorators
 Today I practiced some functions using decorators in python as a part of advance learning concepts.
+
+## Day 50 - Rewind3
+Since it is my 50th day of the 100DaysOfCode Challenge I decided to go back and brush up my concepts.

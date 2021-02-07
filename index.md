@@ -155,3 +155,6 @@ Today I practiced some functions using decorators in python as a part of advance
 
 ## Day 50 - Rewind3
 Since it is my 50th day of the 100DaysOfCode Challenge I decided to go back and brush up my concepts.
+
+## Day 51 - Generators
+Today I practised generators by following a tutorial I'm also planning to practise few concepts from "Cracking the Coding Interview" Book.

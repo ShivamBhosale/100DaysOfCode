@@ -158,3 +158,6 @@ Since it is my 50th day of the 100DaysOfCode Challenge I decided to go back and 
 
 ## Day 51 - Generators
 Today I practised generators by following a tutorial I'm also planning to practise few concepts from "Cracking the Coding Interview" Book.
+
+## Day 52 - Argument Parsing
+Learned about argument parsing in python and practised the same a bit. Now I will have a heavy dinner and sleep like a log.

@@ -1,4 +1,4 @@
-"""
+
 def myfunction(*args, **kwargs):
     
     print(args[0])
@@ -17,7 +17,7 @@ filename = sys.argv[1]
 message = sys.argv[2]
 with open(filename, 'w+') as f:
     f.write(message)
-"""
+
 import getopt
 import sys
 

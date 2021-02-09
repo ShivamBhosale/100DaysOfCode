@@ -161,3 +161,6 @@ Today I practised generators by following a tutorial I'm also planning to practi
 
 ## Day 52 - Argument Parsing
 Learned about argument parsing in python and practised the same a bit. Now I will have a heavy dinner and sleep like a log.
+
+## Day 53 - Sentiment Analysis using textblob
+I came across a module in python called as "textblob" which uses NLP to easily summarize and score the sentiment behind the text. Using textblob we can make a sentiment analyzer with just a few lines of code.

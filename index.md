@@ -164,3 +164,6 @@ Learned about argument parsing in python and practised the same a bit. Now I wil
 
 ## Day 53 - Sentiment Analysis using textblob
 I came across a module in python called as "textblob" which uses NLP to easily summarize and score the sentiment behind the text. Using textblob we can make a sentiment analyzer with just a few lines of code.
+
+## Day 54 - Cryptocurrency Price Visualiser
+I created a Cryptocurrency Price Visualiser using Pandas-datareader and mplfinance modules in python. Tommorrow I will try to deploy this in a streamlit app.

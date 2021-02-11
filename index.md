@@ -167,3 +167,6 @@ I came across a module in python called as "textblob" which uses NLP to easily s
 
 ## Day 54 - Cryptocurrency Price Visualiser
 I created a Cryptocurrency Price Visualiser using Pandas-datareader and mplfinance modules in python. Tommorrow I will try to deploy this in a streamlit app.
+
+## Day 55 - Cryptocurrency Price Visualiser using Streamlit
+I deployed my previously created Cryptocurrency Price Visualiser on streamlit. It can convert most of the cryptocurrencies into some of the popular local currency.

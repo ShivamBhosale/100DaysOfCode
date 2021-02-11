@@ -18,6 +18,5 @@ plt.ylabel(f"Price in {currency}")
 plt.plot(data['Close'],color='green')
 plt.legend(loc="upper left")
 plt.show()
-
 # mpf.title(f"{crypto} Price Visualizer")
 # mpf.plot(data,type="candle",style="yahoo",volume=True)

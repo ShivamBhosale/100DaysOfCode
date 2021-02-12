@@ -170,3 +170,6 @@ I created a Cryptocurrency Price Visualiser using Pandas-datareader and mplfinan
 
 ## Day 55 - Cryptocurrency Price Visualiser using Streamlit
 I deployed my previously created Cryptocurrency Price Visualiser on streamlit. It can convert most of the cryptocurrencies into some of the popular local currency.
+
+## Day56 - Edge detection in OpenCV
+Today I made an edge detection in OpenCV and practised a few questions from cracking the coding interview.

@@ -173,3 +173,6 @@ I deployed my previously created Cryptocurrency Price Visualiser on streamlit. I
 
 ## Day56 - Edge detection in OpenCV
 Today I made an edge detection in OpenCV and practised a few questions from cracking the coding interview.
+
+## Day57 - Data Analytics
+Today I went back to practice data analytics on a vehicle dataset, In the process I cleaned the dataset and added missing values in the dataset.

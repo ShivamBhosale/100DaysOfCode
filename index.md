@@ -179,3 +179,6 @@ Today I went back to practice data analytics on a vehicle dataset, In the proces
 
 ## Day 58 - Encapsulation
 I saw a tutorial on encapsulation in python and practiced the same.
+
+## Day 59 - Practiced CNN using Fashion MNIST
+Since I didn't practice TensorFlow for a long time, I decided to go back and perform and build a simple model using the fashion_mnist dataset to classify different clothing.

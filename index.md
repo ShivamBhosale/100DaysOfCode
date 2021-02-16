@@ -182,3 +182,6 @@ I saw a tutorial on encapsulation in python and practiced the same.
 
 ## Day 59 - Practiced CNN using Fashion MNIST
 Since I didn't practice TensorFlow for a long time, I decided to go back and perform and build a simple model using the fashion_mnist dataset to classify different clothing.
+
+## Day 60 - Rewind - 4
+I practice some basic common programming concepts and continued with my course "TensorFlow: Advanced Techniques Specialization" on Coursera.

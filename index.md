@@ -1,6 +1,6 @@
 # The 100DaysOfCode Challenge
 
-In this blog I will be sharing my journey from Day1 to Day100 of my #The100DaysofCode Challenge..
+In this blog I will be sharing my journey from Day 1 to Day 100 of my #The100DaysofCode Challenge..
 
 
 ## Day 1 - Pilot

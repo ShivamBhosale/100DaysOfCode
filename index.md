@@ -153,7 +153,7 @@ Today I started a learning some advance python concepts and learned magic method
 ## Day 49 - Decorators
 Today I practiced some functions using decorators in python as a part of advance learning concepts.
 
-## Day 50 - Rewind3
+## Day 50 - Rewind 3
 Since it is my 50th day of the 100DaysOfCode Challenge I decided to go back and brush up my concepts.
 
 ## Day 51 - Generators
@@ -183,5 +183,8 @@ I saw a tutorial on encapsulation in python and practiced the same.
 ## Day 59 - Practiced CNN using Fashion MNIST
 Since I didn't practice TensorFlow for a long time, I decided to go back and perform and build a simple model using the fashion_mnist dataset to classify different clothing.
 
-## Day 60 - Rewind - 4
+## Day 60 - Rewind 4
 I practice some basic common programming concepts and continued with my course "TensorFlow: Advanced Techniques Specialization" on Coursera.
+
+## Day 61 - Type Hinting
+Today I didn't do much other than learning type hinting in python.

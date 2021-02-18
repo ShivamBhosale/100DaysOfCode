@@ -188,3 +188,6 @@ I practice some basic common programming concepts and continued with my course "
 
 ## Day 61 - Type Hinting
 Today I didn't do much other than learning type hinting in python.
+
+## Day 62 - CTCI Practice
+I practiced few concepts from cracking the coding interview book.

@@ -191,3 +191,6 @@ Today I didn't do much other than learning type hinting in python.
 
 ## Day 62 - CTCI Practice
 I practiced few concepts from cracking the coding interview book.
+
+## Day 63 - Heart Disease Prediction
+I downloaded the "heart disease uci dataset" from kaggle and worked over it to prediction heart disease by using different ML algorithms like Decision Tree, Random Forest and KNN.

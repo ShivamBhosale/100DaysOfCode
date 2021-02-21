@@ -197,3 +197,6 @@ I downloaded the "heart disease uci dataset" from kaggle and worked over it to p
 
 ## Day 64 - MNIST
 Since it was a busy day, just to keep my streak in progress I made a simple model using MNIST keras datasets.
+
+## Day 65 - Tweet Sentiment
+Made a tweet sentiment analyzer using LSTM framework in TensorFlow.

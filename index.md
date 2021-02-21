@@ -196,4 +196,4 @@ I practiced few concepts from cracking the coding interview book.
 I downloaded the "heart disease uci dataset" from kaggle and worked over it to prediction heart disease by using different ML algorithms like Decision Tree, Random Forest and KNN.
 
 ## Day 64 - MNIST
-Since it was a busy day, just to keep my streak in progress I made a simple model using MNIST keras dataset.
+Since it was a busy day, just to keep my streak in progress I made a simple model using MNIST keras datasets.

@@ -202,4 +202,4 @@ Since it was a busy day, just to keep my streak in progress I made a simple mode
 Made a tweet sentiment analyzer using LSTM framework in TensorFlow.
 
 ## Day 66 - IrisML
-I performed basic analyis on the famous iris dataset and ran differet ML algorithms to predict the species type and then compared all the algorithms for their accuracy.
+I performed basic analysis on the famous iris dataset and ran different ML algorithms to predict the species type and then compared all the algorithms for their accuracy.

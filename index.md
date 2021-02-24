@@ -206,3 +206,6 @@ I performed basic analysis on the famous iris dataset and ran different ML algor
 
 ## Day 67 - Rewind 5
 Busy day just revised some basic concepts today.
+
+## Day 68 - Decision Tree Practice
+Today I practiced decision tree algorithm on a drug dataset.

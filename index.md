@@ -209,3 +209,6 @@ Busy day just revised some basic concepts today.
 
 ## Day 68 - Decision Tree Practice
 Today I practiced decision tree algorithm on a drug dataset.
+
+## Day 69 - Gender Classification using income dataset
+I performed Gender Classification using income dataset in SVM and Random forest algorithms.

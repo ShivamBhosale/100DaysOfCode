@@ -212,3 +212,6 @@ Today I practiced decision tree algorithm on a drug dataset.
 
 ## Day 69 - Gender Classification using income dataset
 I performed Gender Classification using income dataset in SVM and Random forest algorithms.
+
+## Day 70 - Netflix Data Analysis
+Today as a part of my 70th day, I performed Data Analysis on Netflix using data from Kaggle.

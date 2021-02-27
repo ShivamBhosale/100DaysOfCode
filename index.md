@@ -215,3 +215,6 @@ I performed Gender Classification using income dataset in SVM and Random forest 
 
 ## Day 70 - Netflix Data Analysis
 Today as a part of my 70th day, I performed Data Analysis on Netflix using data from Kaggle.
+
+## Day 71 - Mushroom Data Analysis and Prediction
+Performed some basic data analysis on a mushroom data set and applied ML algorithms - DT and RF to predict the class of the same.

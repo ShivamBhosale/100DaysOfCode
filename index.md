@@ -218,3 +218,6 @@ Today as a part of my 70th day, I performed Data Analysis on Netflix using data 
 
 ## Day 71 - Mushroom Data Analysis and Prediction
 Performed some basic data analysis on a mushroom data set and applied ML algorithms - DT and RF to predict the class of the same.
+
+## Day 72 - KC_House Price Prediction
+Performed Data Analysis and price prediction using different ML algorithms on a house dataset.

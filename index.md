@@ -221,3 +221,6 @@ Performed some basic data analysis on a mushroom data set and applied ML algorit
 
 ## Day 72 - KC_House Price Prediction
 Performed Data Analysis and price prediction using different ML algorithms on a house dataset.
+
+## Day 73 - Stroke Prediction using Decision Tree
+Using a health dataset from Kaggle, I performed a Decision Tree algorithm to predict stroke.  

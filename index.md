@@ -224,3 +224,6 @@ Performed Data Analysis and price prediction using different ML algorithms on a 
 
 ## Day 73 - Stroke Prediction using Decision Tree
 Using a health dataset from Kaggle, I performed a Decision Tree algorithm to predict stroke.  
+
+## Day 74 - CO2 Emissions Data Analysis
+Performed CO2 emissions data analysis and visualized different aspects of the dataset to make it more meaningful.

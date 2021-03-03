@@ -227,3 +227,6 @@ Using a health dataset from Kaggle, I performed a Decision Tree algorithm to pre
 
 ## Day 74 - CO2 Emissions Data Analysis
 Performed CO2 emissions data analysis and visualized different aspects of the dataset to make it more meaningful.
+
+## Day 75 - Plant Disease Detection 3
+I continued to work on my project to further improve its accuracy.

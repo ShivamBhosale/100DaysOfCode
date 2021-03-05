@@ -1,0 +1,2 @@
+- Extract the archive folder and name it as samples.
+- Place that samples folder into another folder - 'tmp'.

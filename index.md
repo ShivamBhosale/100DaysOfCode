@@ -233,3 +233,6 @@ I continued to work on my project to further improve its accuracy.
 
 ## Day 76 - Plant Disease Detection 4
 I rebuild my model to improve its accuracy substantially by playing with the CNN layers. Although I have been successful in building the model, I still have some issues in deploying it.
+
+## Day 77 - Captcha Image Text and Numbers Recognizer using CNN
+Using dataset from kaggle I made a Captcha Image Text and Numbers Recognizer with the help of CNN in TensorFlow, I was able to achieve an accuracy of about 95%.

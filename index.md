@@ -236,3 +236,6 @@ I rebuild my model to improve its accuracy substantially by playing with the CNN
 
 ## Day 77 - Captcha Image Text and Numbers Recognizer using CNN
 Using dataset from kaggle I made a Captcha Image Text and Numbers Recognizer with the help of CNN in TensorFlow, I was able to achieve an accuracy of about 95%.
+
+## Day 78 - Car Price Analysis
+Performed basic car analysis on a car price dataset.

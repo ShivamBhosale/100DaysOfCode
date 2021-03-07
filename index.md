@@ -239,3 +239,6 @@ Using dataset from kaggle I made a Captcha Image Text and Numbers Recognizer wit
 
 ## Day 78 - Car Price Analysis
 Performed basic car analysis on a car price dataset.
+
+## Day 79 - Bank Marketing Data (Decision Tree)
+Performed some basic data analysis on a bank data and applied decision tree method on it to predict whether the customer will subscribe or not.

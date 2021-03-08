@@ -242,3 +242,6 @@ Performed basic car analysis on a car price dataset.
 
 ## Day 79 - Bank Marketing Data (Decision Tree)
 Performed some basic data analysis on a bank data and applied decision tree method on it to predict whether the customer will subscribe or not.
+
+## Day 80 - Fake News Classification using LSTM
+I performed LSTM on a news dataset to identify the fake news.

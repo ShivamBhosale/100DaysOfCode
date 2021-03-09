@@ -245,3 +245,6 @@ Performed some basic data analysis on a bank data and applied decision tree meth
 
 ## Day 80 - Fake News Classification using LSTM
 I performed LSTM on a news dataset to identify the fake news.
+
+## Day 81 - Mumbai - Chennai House Price Analysis
+Using a dataset from Kaggle I performed basic analysis on the house prices in the Indian cities of Mumbai and Chennai.

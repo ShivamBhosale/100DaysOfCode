@@ -248,3 +248,6 @@ I performed LSTM on a news dataset to identify the fake news.
 
 ## Day 81 - Mumbai - Chennai House Price Analysis
 Using a dataset from Kaggle I performed basic analysis on the house prices in the Indian cities of Mumbai and Chennai.
+
+## Day 82 - Mobile Price Prediction
+After doing a data analysis on different factors responsible for a price of a mobile. I used various ML algorithms to predict the price of the same.

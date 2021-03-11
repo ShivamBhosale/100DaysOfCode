@@ -251,3 +251,6 @@ Using a dataset from Kaggle I performed basic analysis on the house prices in th
 
 ## Day 82 - Mobile Price Prediction
 After doing a data analysis on different factors responsible for a price of a mobile. I used various ML algorithms to predict the price of the same.
+
+## Day 83 - Rainfall in India Data Analysis
+I performed data analysis on 'Rainfall in India' using a dataset from Kaggle.

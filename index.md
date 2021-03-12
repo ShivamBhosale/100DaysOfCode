@@ -254,3 +254,6 @@ After doing a data analysis on different factors responsible for a price of a mo
 
 ## Day 83 - Rainfall in India Data Analysis
 I performed data analysis on 'Rainfall in India' using a dataset from Kaggle.
+
+## Day 84 - Used Car Price Data Analysis
+Performed data analysis and used various visualization techniques to classify different aspects on the dataset.

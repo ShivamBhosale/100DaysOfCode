@@ -260,3 +260,6 @@ Performed data analysis and used various visualization techniques to classify di
 
 ## Day 85 - Mumbai Air Quality Data Analysis and Visualization
 Did data analysis on a Mumbai air quality dataset and performed different visualization techniques to understand the dataset better.
+
+## Day 86 - Laptop Price Prediction
+Using a laptop price dataset from Kaagle I did some data analysis and predicted the price of the laptops using different ML algorithms.

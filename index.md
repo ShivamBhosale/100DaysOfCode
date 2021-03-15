@@ -263,3 +263,7 @@ Did data analysis on a Mumbai air quality dataset and performed different visual
 
 ## Day 86 - Laptop Price Prediction
 Using a laptop price dataset from Kaagle I did some data analysis and predicted the price of the laptops using different ML algorithms.
+
+## Day 87 - Predicting World Countries GDP
+Performed analysis, visualization and ML algorithmic prediction for GDP on a dataset.
+

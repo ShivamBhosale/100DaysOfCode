@@ -267,3 +267,5 @@ Using a laptop price dataset from Kaagle I did some data analysis and predicted 
 ## Day 87 - Predicting World Countries GDP
 Performed analysis, visualization and ML algorithmic prediction for GDP on a dataset.
 
+## Day 88 - FIFA 19 Data Analysis
+Today I did Data analysis and visualization on a FIFA 19 players dataset.

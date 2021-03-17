@@ -269,3 +269,6 @@ Performed analysis, visualization and ML algorithmic prediction for GDP on a dat
 
 ## Day 88 - FIFA 19 Data Analysis
 Today I did Data analysis and visualization on a FIFA 19 players dataset.
+
+## Day 89 - Pokémon Data Analysis and Prediction
+Performed analysis, visualization and ML algorithmic prediction for Pokémon stats dataset.

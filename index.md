@@ -272,3 +272,6 @@ Today I did Data analysis and visualization on a FIFA 19 players dataset.
 
 ## Day 89 - Pokémon Data Analysis and Prediction
 Performed analysis, visualization and ML algorithmic prediction for Pokémon stats dataset.
+
+## Day 90 - Canada Immigration Visualization
+As a part of my 90th day, I performed a detailed visualization on a Canadian immigration dataset.

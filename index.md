@@ -275,3 +275,6 @@ Performed analysis, visualization and ML algorithmic prediction for Pokémon sta
 
 ## Day 90 - Canada Immigration Visualization
 As a part of my 90th day, I performed a detailed visualization on a Canadian immigration dataset.
+
+## Day 91 - Movie Review Sentiment Prediction
+Today using input as IMDB dataset I did Movie Review Sentiment Prediction using nltk module in python.

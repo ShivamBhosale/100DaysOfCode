@@ -278,3 +278,6 @@ As a part of my 90th day, I performed a detailed visualization on a Canadian imm
 
 ## Day 91 - Movie Review Sentiment Prediction
 Today using input as IMDB dataset I did Movie Review Sentiment Prediction using nltk module in python.
+
+## Day 92 - Spotify Data Analysis
+After a really long day I managed to pick up some time to perform a data analysis and some Ml algorithms on a Spotify dataset.

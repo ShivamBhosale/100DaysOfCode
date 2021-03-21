@@ -281,3 +281,6 @@ Today using input as IMDB dataset I did Movie Review Sentiment Prediction using 
 
 ## Day 92 - Spotify Data Analysis
 After a really long day I managed to pick up some time to perform a data analysis and some Ml algorithms on a Spotify dataset.
+
+## Day 93 - Beer Recipes Exploratory Analysis
+Did a detailed analysis on beer recipes and visualized various aspects of the dataset to understand it better.

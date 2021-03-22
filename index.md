@@ -284,3 +284,6 @@ After a really long day I managed to pick up some time to perform a data analysi
 
 ## Day 93 - Beer Recipes Exploratory Analysis
 Did a detailed analysis on beer recipes and visualized various aspects of the dataset to understand it better.
+
+## Day 94 - Plant Disease Detection 5
+Worked on my final year project to improve its accuracy.

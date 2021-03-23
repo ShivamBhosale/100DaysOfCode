@@ -287,3 +287,6 @@ Did a detailed analysis on beer recipes and visualized various aspects of the da
 
 ## Day 94 - Plant Disease Detection 5
 Worked on my final year project to improve its accuracy.
+
+## Day 95 - Amazon Job Analysis
+Today I performed an analysis on the Amazon job dataset and used various visualization techniques to understand the dataset better.

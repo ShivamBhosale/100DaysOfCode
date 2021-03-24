@@ -290,3 +290,6 @@ Worked on my final year project to improve its accuracy.
 
 ## Day 95 - Amazon Job Analysis
 Today I performed an analysis on the Amazon job dataset and used various visualization techniques to understand the dataset better.
+
+## Day 96 - COVID-19 Tweets Analysis Using Wordcloud
+I did COVID-19 tweets analysis using wordcloud and also used other visualization techniques on the tweet dataset.

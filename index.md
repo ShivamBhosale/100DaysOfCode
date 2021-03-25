@@ -293,3 +293,6 @@ Today I performed an analysis on the Amazon job dataset and used various visuali
 
 ## Day 96 - COVID-19 Tweets Analysis Using Wordcloud
 I did COVID-19 tweets analysis using wordcloud and also used other visualization techniques on the tweet dataset.
+
+## Day 97 - Restaurant Sales Analyis
+Today I did Restaurant Sales Analyis on a dataset and used Plotty ans Seaborn to visualize the dataset.

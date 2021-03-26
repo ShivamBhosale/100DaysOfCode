@@ -296,3 +296,6 @@ I did COVID-19 tweets analysis using wordcloud and also used other visualization
 
 ## Day 97 - Restaurant Sales Analyis
 Today I did Restaurant Sales Analyis on a dataset and used Plotty ans Seaborn to visualize the dataset.
+
+## Day 98 - World Suicide Analysis
+As a part of my 98th Day I performed analysis on the world suicide dataset and visualized the dataset using different modules.

@@ -299,3 +299,6 @@ Today I did Restaurant Sales Analyis on a dataset and used Plotty ans Seaborn to
 
 ## Day 98 - World Suicide Analysis
 As a part of my 98th Day I performed analysis on the world suicide dataset and visualized the dataset using different modules.
+
+## Day 99 - Bank Marketing Analysis
+I performed an analysis on a bank marketing dataset and visualized it to get the most information out of it.

@@ -302,3 +302,6 @@ As a part of my 98th Day I performed analysis on the world suicide dataset and v
 
 ## Day 99 - Bank Marketing Analysis
 I performed an analysis on a bank marketing dataset and visualized it to get the most information out of it.
+
+## Day 100 - Market Risks Of Mutual Funds
+For the last day of the challenge I performed analysis on a market risks of mutual funds from a NIFTY50 dataset.
